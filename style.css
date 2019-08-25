@@ -1,0 +1,17 @@
+body {
+    background-color: cadetblue;
+    color: black;
+}
+
+.Titre {
+    color: blue;
+}
+
+.image1{
+    width: 400px;
+    border: 1px solid black;
+}
+
+.bold {
+    font-weight: bold;
+}
