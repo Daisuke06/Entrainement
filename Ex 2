@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang='fr'>
+  <head>
+    <meta charset='UTF-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercice 2</title>
+    <style>
+        
+    </style>
+  </head>
+  <body>
+    <h1>Titre de l'entete de la page</h1>
+    <nav class="lien">
+        <ul>
+            <li class="lien"><a href="Acceuil>">Acceuil</a></li>
+            <li class="lien"><a href="Services">Services</a></li>
+            <li class="lien"><a href="Partenaires">Partenaires</a></li>
+            <li class="lien"><a href="Contact">Contact</a></li>
+        </ul>
+    </nav>
+    <h2>Titre de la section</h2>
+    <h3>Titre de l'article 1</h3>
+    <p><em>Lorem ip sum dolor sit amet, consectur adipisicing elit, sed do eiusmod ...</em></p>
+    <h3>Titre de l'article 2</h3>
+    <p><em>Lorem ip sum dolor sit amet, consectur adipisicing elit, sed do eiusmod ...</em></p>
+    <p><em>© 2019 All Rights Reserved</em></p>
+  </body>
+</html>
